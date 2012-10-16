@@ -1,0 +1,85 @@
+Received: from kedge4.utk.tennessee.edu (160.36.179.113) by
+ kch4.utk.tennessee.edu (160.36.76.208) with Microsoft SMTP Server (TLS) id
+ 14.1.255.0; Sun, 7 Nov 2010 19:23:04 -0500
+Received: from mail-qw0-f45.google.com (209.85.216.45) by
+ kedge4.utk.tennessee.edu (160.36.179.113) with Microsoft SMTP Server id
+ 14.1.255.0; Sun, 7 Nov 2010 19:23:03 -0500
+Received: by qwf6 with SMTP id 6so4707523qwf.18        for
+ <booneradley@utk.edu>; Sun, 07 Nov 2010 16:23:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=kYTHTX2F2k1od+BfXfkhbLw7V/G3oVknLNPW2sb83rI=;
+        b=Fa41ZVXLkCL1d/Jz2CHFF9yHX2BxuPtd35wSyTO352+ZJwyr1GczxMpxJuHYWeRUxZ
+         7xPR7jMw1Ln8G8zvhP2JgBDjQfdY2/zabRwzqNi9n/pZOhx1aFVNwMMYmFag8N1ThA/D
+         udv4cqOBjdtW44KvdwUUidE0+Ed3pWiR6iDNc=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=NQumwgu5P4HgTydNZq56aPrxpeqqM/l01jMm3T6HkhxjgcyFvqBWXsUgC+qsI+F67c
+         sjuRljVV+3v/DqsBk572m/0b/wlZrKkZll8OZoG3ZLJ2w4lBsVvCbza8GtE40HyCE2P3
+         kxzSVxLZXuzwvsrmEO+U5a+TdowNWThXmVWEc=
+Received: by 10.224.216.130 with SMTP id hi2mr3337697qab.353.1289175783618;
+ Sun, 07 Nov 2010 16:23:03 -0800 (PST)
+Received: by 10.220.64.138 with HTTP; Sun, 7 Nov 2010 16:23:03 -0800 (PST)
+Date: Sun, 7 Nov 2010 19:23:03 -0500
+Message-ID: <AANLkTikL+mE36qz2+byKze3uL2+dLtF=iuO_qPU9HEN4@mail.gmail.com>
+Subject: Invitations
+From: Tonya Stooksberry <tonyastooksberry@gmail.com>
+To: <booneradley@utk.edu>
+Return-Path: tonyastooksberry@gmail.com
+X-MS-Exchange-Organization-Antispam-Report: v=1.1
+ cv=nXZ+9dkqvHHMrEQSy/SwGXFJGdgpYpJw0RwcVuOHqmA= c=1 sm=1 a=pGLkceISAAAA:8
+ a=YubrXMAC9HAUJI2uOwMA:9 a=2ReZdWvd48PzoUbpQPEA:7
+ a=PaqhJIHAvdgTtW1jwoAk22wDRUEA:4 a=wPNLvfGTeEIA:10 a=MSl-tDqOz04A:10
+ a=nYDRvk0JTl70cbg_z88A:9 a=YuP-PwJWr464Oz6cgLoA:7
+ a=cv9ANLDfukxBDa7KaIt8hvcxq7kA:4
+ a=qdcE2/r4r/mslIqiqLRVdg==:117;OrigIP:209.85.216.45;SCL:-1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AuthSource: kedge4.utk.tennessee.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1397609903_-_-"
+
+
+----boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1397609903_-_-"
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Hi Boone,
+
+My name is Tonya, and I go to church with Callie. I just love your girlfriend! You are a lucky man.
+
+I heard that you are in the business of creating customized invitations. I am having a New Years Eve party, and I am looking to order some invitations. I have included the information below. How much would you charge?
+
+Thanks,
+Tonya
+
+Tonya's Rockin' New Years Eve Bash
+Friday, December 31, 2010
+9:00 PM
+Hilton Downtown Knoxville
+501 West Church Avenue
+Knoxville, Tennessee
+RSVP: tonyastooksberry@gmail.com
+I have reserved a block of rooms under "Stooksberry" for those who wish to stay at the Hilton! Please make your room reservation by December 17.
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/html; charset="iso-8859-1"
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">Hi Boone,<div><br></div><div>My name is Tonya, and I go to church with Callie. I just love your girlfriend! You are a lucky man.</div><div><br></div><div>I heard that you are in the business of creating customized invitations. I am having a New Years Eve party, and I am looking to order some invitations. I have included the information below. How much would you charge?</div>
+<div><br></div><div>Thanks,</div><div>Tonya</div><div><br></div><div>Tonya's Rockin' New Years Eve Bash</div><div>Friday, December 31, 2010</div><div>9:00 PM</div><div>Hilton Downtown Knoxville</div><div>501 West Church Avenue</div>
+<div>Knoxville, Tennessee</div><div>RSVP: <a href="mailto:tonyastooksberry@gmail.com">tonyastooksberry@gmail.com</a></div><div>I have reserved a block of rooms under &quot;Stooksberry&quot; for those who wish to stay at the Hilton! Please make your room reservation by December 17.</div>
+
+--alt---boundary-LibPST-iamunique-1397609903_-_---
+
+----boundary-LibPST-iamunique-1397609903_-_---
+

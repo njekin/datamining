@@ -1,0 +1,106 @@
+Received: from kedge4.utk.tennessee.edu (160.36.179.113) by
+ kch4.utk.tennessee.edu (160.36.76.208) with Microsoft SMTP Server (TLS) id
+ 14.1.255.0; Fri, 5 Nov 2010 19:48:08 -0400
+Received: from mail-qy0-f180.google.com (209.85.216.180) by
+ kedge4.utk.tennessee.edu (160.36.179.113) with Microsoft SMTP Server id
+ 14.1.255.0; Fri, 5 Nov 2010 19:48:03 -0400
+Received: by mail-qy0-f180.google.com with SMTP id 1so2754676qyk.18        for
+ <booneradley@utk.edu>; Fri, 05 Nov 2010 16:48:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type;
+        bh=/eXkbl8vY6s4KB7ckvOcfSCwmOdLcybh7fkFoOW0/XU=;
+        b=DUqkHzl7LhXGgurpcFBWjEW+jCy9qMyFdGWZCtkTyZRdEg2nPSAJDRdT0T1UT4hDNW
+         EPV3f4OpoNr74sTd5pm64/gIjph7R4JxX9X0S/Ef+RokwCtht++6W1yigOsm/GgIvJbT
+         vKrLiDBV4JGp39zHJAvrt9+A0M8F97INu4blQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=jTsNLZZY0shPjcGTuoilhSFXz22Q/NPWsmJZ5i4Nj9dMf0imtzizZ2is4OqlvHJDYt
+         kVA+K+EFoKyxq+S62PDZb5A8BEH6q1nKwTL/65lZnRt6ELqeynx78+MxhDTA+6E0LdIU
+         m6DjIrZwmA7HIaJU+aLB8AunqSiafBt+SkKAo=
+Received: by 10.229.238.82 with SMTP id kr18mr2503318qcb.242.1289000888178;
+ Fri, 05 Nov 2010 16:48:08 -0700 (PDT)
+Received: by 10.229.211.73 with HTTP; Fri, 5 Nov 2010 16:48:08 -0700 (PDT)
+In-Reply-To: <408D440F3C25A947B679C75C964A2209B036@kmbx1.utk.tennessee.edu>
+References: <408D440F3C25A947B679C75C964A2209B036@kmbx1.utk.tennessee.edu>
+Date: Fri, 5 Nov 2010 19:48:08 -0400
+Message-ID: <AANLkTimy=Mqt1NB688p64zCD556nE7Ky7q9Av-zHeQGk@mail.gmail.com>
+Subject: Re: Thanksgiving Proof
+From: "Mrs. Dubose" <mrs.henrydubose@gmail.com>
+To: Boone Radley - Law Pre-Trial Litigation <booneradley@utk.edu>
+Return-Path: mrs.henrydubose@gmail.com
+X-MS-Exchange-Organization-Antispam-Report: v=1.1
+ cv=nXZ+9dkqvHHMrEQSy/SwGXFJGdgpYpJw0RwcVuOHqmA= c=1 sm=1
+ a=OcU7zYQ1dkKVgMw7ztUA:9 a=XesITcAmt-YWa9Zk3_yjinJYtKkA:4 a=wPNLvfGTeEIA:10
+ a=Si7mAmAptA1UkDZ8TowA:9 a=L1_dE5me7yWA-hZaMzcA:7
+ a=5Ie4_tT8D7OIhl8ub_uZOzdsA54A:4
+ a=hLcLIkTLg2nAAMYxL9XpIw==:117;OrigIP:209.85.216.180;SCL:-1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AuthSource: kedge4.utk.tennessee.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1397609903_-_-"
+
+
+----boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1397609903_-_-"
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Dear Boone,
+
+I am most impressed with your work. The proof looks fabulous! Please proceed with production.
+
+Thank you for your assistance,
+Mrs. Henry Dubose
+
+
+On Wed, Nov 3, 2010 at 10:04 PM, Boone Radley - Law Pre-Trial Litigation <booneradley@utk.edu> wrote:
+
+
+	 
+	Please let me know if you would like any changes made or if you have any trouble viewing the proof. I will commence production as soon as I receive your reply. Thank you again for choosing Simply Stated.
+
+	Regards,
+
+	Boone Radley
+
+
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/html; charset="iso-8859-1"
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">Dear Boone,<div><br></div><div>I am most impressed with your work. The proof looks fabulous! Please proceed with production.</div><div><br></div><div>Thank you for your assistance,</div><div>Mrs. Henry Dubose<br><br><div class="gmail_quote">
+On Wed, Nov 3, 2010 at 10:04 PM, Boone Radley - Law Pre-Trial Litigation <span dir="ltr">&lt;<a href="mailto:booneradley@utk.edu">booneradley@utk.edu</a>&gt;</span> wrote:<br><blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;">
+
+
+
+
+
+<div>
+<div style="direction:ltr;font-family:Tahoma;color:#000000;font-size:10pt"><img>
+<div>Please let me know if you would like any changes made or if you have any trouble viewing the proof. I will commence production as soon as I receive your reply. Thank you again for choosing Simply Stated.</div>
+<div><br>
+</div>
+<div>Regards,</div>
+<div><br>
+</div>
+<div>Boone Radley</div>
+</div>
+</div>
+
+</blockquote></div><br></div>
+
+--alt---boundary-LibPST-iamunique-1397609903_-_---
+
+----boundary-LibPST-iamunique-1397609903_-_---
+

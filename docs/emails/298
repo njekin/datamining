@@ -1,0 +1,182 @@
+Received: from kedge1.utk.tennessee.edu (160.36.179.132) by
+ kch4.utk.tennessee.edu (160.36.76.208) with Microsoft SMTP Server (TLS) id
+ 14.1.255.0; Thu, 11 Nov 2010 14:11:21 -0500
+Received: from mail185-va3-R.bigfish.com (216.32.180.114) by
+ kedge1.utk.tennessee.edu (160.36.179.132) with Microsoft SMTP Server (TLS) id
+ 14.1.255.0; Thu, 11 Nov 2010 14:11:03 -0500
+Received: from mail185-va3 (localhost.localdomain [127.0.0.1])	by
+ mail185-va3-R.bigfish.com (Postfix) with ESMTP id 997B8D60541	for
+ <booneradley@utk.edu>; Thu, 11 Nov 2010 19:11:19 +0000 (UTC)
+X-SpamScore: -24
+X-BigFish: vps-24(zz1415J1432N98dN4015L9371Pzz1202h10adjzz8275bhz2fh5eh5fh668h61h)
+X-Spam-TCS-SCL: 0:0
+X-Forefront-Antispam-Report: KIP:(null);UIP:(null);IPVD:NLI;H:mail-qy0-f180.google.com;RD:mail-qy0-f180.google.com;EFVD:NLI
+Received: from mail185-va3 (localhost.localdomain [127.0.0.1]) by mail185-va3
+ (MessageSwitch) id 1289502660875977_25205; Thu, 11 Nov 2010 19:11:00 +0000
+ (UTC)
+Received: from VA3EHSMHS018.bigfish.com (unknown [10.7.14.254])	by
+ mail185-va3.bigfish.com (Postfix) with ESMTP id 7BEB1E60087	for
+ <booneradley@utk.edu>; Thu, 11 Nov 2010 19:10:31 +0000 (UTC)
+Received: from mail-qy0-f180.google.com (209.85.216.180) by
+ VA3EHSMHS018.bigfish.com (10.7.99.28) with Microsoft SMTP Server id
+ 14.1.225.8; Thu, 11 Nov 2010 19:10:30 +0000
+Received: by qyk36 with SMTP id 36so1609418qyk.18        for
+ <booneradley@utk.edu>; Thu, 11 Nov 2010 11:10:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type;
+        bh=M3hz3j7LEg8TSH+WTNwkaaavuDX5WOFNAa0XPLN88DE=;
+        b=sEkZo9+w+NTrEHH16CDyq863GD0Ups5ME4+pmKN71mzw+uKEJ5wQNaLBUl8j+VDVsU
+         W7d0Jula0JvRAXiZUhbe57iGhuntoxwFq5oREUlAaucVuvvHrG5qDQQMrqx/IL0ot5+0
+         CYLXQZzdZW7X75wp+UL07GkTPMuUK6TRqBU94=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=YbDfZ4YApZu6g+09pIrX9xU7MCkUhBg3qHvj15hMvWSlcbkyDZPLTfFhGP2DCnVJPg
+         0i9E7NOukeMF3A3I2OPtj3VYdSyG/FsGaLdF+mUWTAe28z5jQexJq/EMVUpIq0YTbltb
+         PyKdUhQCQJ/gfB3IPOGa2oOBXrs93CRd+M+PY=
+Received: by 10.229.235.4 with SMTP id ke4mr1066514qcb.201.1289502629622; Thu,
+ 11 Nov 2010 11:10:29 -0800 (PST)
+Received: by 10.229.89.18 with HTTP; Thu, 11 Nov 2010 11:10:29 -0800 (PST)
+In-Reply-To: <408D440F3C25A947B679C75C964A220905205BF3@kmbx1.utk.tennessee.edu>
+References: <AANLkTin+kjW3tG-XBWxspgT_9A+ctUivwj2-AF18DqMg@mail.gmail.com>
+	<408D440F3C25A947B679C75C964A220905205BF3@kmbx1.utk.tennessee.edu>
+Date: Thu, 11 Nov 2010 14:10:29 -0500
+Message-ID: <AANLkTikfbBX4xf-TzGPae6O6SDNtAFBXnb6jKJ59k7j6@mail.gmail.com>
+Subject: Re: Order request
+From: Sami Surrey <samisurrey@gmail.com>
+To: Boone Radley - Law Pre-Trial Litigation <booneradley@utk.edu>
+Return-Path: samisurrey@gmail.com
+X-MS-Exchange-Organization-Antispam-Report: v=1.1
+ cv=9QzObXSd/z7RxdozMt20+XDh1Dr1nKuJ4l57Fb98SKE= c=1 sm=1 a=eMdsp-VuZiEA:10
+ a=pGLkceISAAAA:8 a=Lgt1NawElMY3o4CDFTAA:9 a=I6o875784zCr19D-DOkA:7
+ a=AOO4M0GqBf5KjVmx59XxvhPGWy0A:4 a=wPNLvfGTeEIA:10 a=h5EIdcbKadcA:10
+ a=MSl-tDqOz04A:10 a=6xb7TVv9ae3fTRUT:21 a=F_NkJBU8jGxy8ix7:21
+ a=4RNOZlfcDVFEd1NhmqsA:9 a=Onm8g1GhQpXoDtwWEIwA:7
+ a=hsBCWz4ZCoFAvjJNCnbuWVSO6TwA:4
+ a=7YI4zKaUOw0dwgm2f8tK9w==:117;OrigIP:216.32.180.114;SCL:-1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AuthSource: kedge1.utk.tennessee.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1397609903_-_-"
+
+
+----boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1397609903_-_-"
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Great! I look forward to seeing it.
+
+Thanks,
+Sami
+
+
+On Thu, Nov 11, 2010 at 9:00 AM, Boone Radley - Law Pre-Trial Litigation <booneradley@utk.edu> wrote:
+
+
+	Sami,
+	
+	I appreciate your business. It will be my pleasure to help a friend of Callie. You should expect a proof soon and your order will follow promptly. I look forward to serving you. Have a nice day. 
+	
+	Boone Radley
+	
+________________________________
+
+	From: Sami Surrey [samisurrey@gmail.com]
+	Sent: Wednesday, November 10, 2010 4:09 PM
+	To: Boone Radley - Law Pre-Trial Litigation
+	Subject: Order request
+	
+	
+
+	Boone,
+	
+	My name is Sami Surrey, and I know your girlfriend through the Junior League
+	of Knoxville. I was hoping that you could put together some invitations for
+	my Christmas party. Yes, it is a Christmas party, not a "holiday" party. It
+	is going to be on Saturday, December 18 at 7:00 PM at my house. My address
+	is 5324 Lakeview Drive, Knoxville, Tennessee. Please list my husband and I
+	as the hosts: Brad & Samatha Surrey. Please have them e-mail me with RSVPs
+	at samisurrey@gmail.com by December 10. Also, could you just put this little
+	jingle at the top of the invitation? "The Christmas season is drawing near,
+	so let's celebrate with holiday cheer!"
+	
+	I will need about 75. I look forward to hearing back from you!
+	
+	Thanks,
+	Sami
+	
+
+
+
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/html; charset="iso-8859-1"
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">Great! I look forward to seeing it.<div><br></div><div>Thanks,</div><div>Sami<br><br><div class="gmail_quote">On Thu, Nov 11, 2010 at 9:00 AM, Boone Radley - Law Pre-Trial Litigation <span dir="ltr">&lt;<a href="mailto:booneradley@utk.edu">booneradley@utk.edu</a>&gt;</span> wrote:<br>
+<blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;">
+
+
+
+
+<div>
+<div style="direction:ltr;font-family:Tahoma;color:#000000;font-size:10pt">Sami,<br>
+<br>
+I appreciate your business. It will be my pleasure to help a friend of Callie. You should expect a proof soon and your order will follow promptly. I look forward to serving you. Have a nice day.
+<br>
+<br>
+Boone Radley<br>
+<div style="font-family:Times New Roman;color:rgb(0, 0, 0);font-size:16px">
+<hr>
+<div style="direction:ltr"><font color="#000000" face="Tahoma" size="2"><b>From:</b> Sami Surrey [<a href="mailto:samisurrey@gmail.com" target="_blank">samisurrey@gmail.com</a>]<br>
+<b>Sent:</b> Wednesday, November 10, 2010 4:09 PM<br>
+<b>To:</b> Boone Radley - Law Pre-Trial Litigation<br>
+<b>Subject:</b> Order request<br>
+</font><br>
+</div><div><div></div><div class="h5">
+<div></div>
+<div>
+<div class="gmail_quote">
+<div>
+<div><br>
+Boone,<br>
+<br>
+My name is Sami Surrey, and I know your girlfriend through the Junior League<br>
+of Knoxville. I was hoping that you could put together some invitations for<br>
+my Christmas party. Yes, it is a Christmas party, not a &quot;holiday&quot; party. It<br>
+is going to be on Saturday, December 18 at 7:00 PM at my house. My address<br>
+is 5324 Lakeview Drive, Knoxville, Tennessee. Please list my husband and I<br>
+as the hosts: Brad &amp; Samatha Surrey. Please have them e-mail me with RSVPs<br>
+at <a href="mailto:samisurrey@gmail.com" target="_blank">samisurrey@gmail.com</a> by December 10. Also, could you just put this little<br>
+jingle at the top of the invitation? &quot;The Christmas season is drawing near,<br>
+so let's celebrate with holiday cheer!&quot;<br>
+<br>
+I will need about 75. I look forward to hearing back from you!<br>
+<br>
+Thanks,<br>
+Sami<br>
+</div>
+</div>
+</div>
+<br>
+</div>
+</div></div></div>
+</div>
+</div>
+
+</blockquote></div><br></div>
+
+--alt---boundary-LibPST-iamunique-1397609903_-_---
+
+----boundary-LibPST-iamunique-1397609903_-_---
+

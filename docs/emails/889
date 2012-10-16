@@ -1,0 +1,78 @@
+Received: from ksmtp2.utk.tennessee.edu ([160.36.76.165]) by KFSVS3.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sun, 17 Oct 2010 17:05:24 -0400
+Received: from KCH3.utk.tennessee.edu ([160.36.76.207]) by ksmtp2.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sun, 17 Oct 2010 17:05:23 -0400
+Received: from kedge3.utk.tennessee.edu (160.36.179.135) by
+ kch3.utk.tennessee.edu (160.36.76.207) with Microsoft SMTP Server (TLS) id
+ 14.0.702.0; Sun, 17 Oct 2010 17:05:23 -0400
+Received: from mail-iw0-f173.google.com (209.85.214.173) by
+ kedge3.utk.tennessee.edu (160.36.179.135) with Microsoft SMTP Server id
+ 14.0.702.0; Sun, 17 Oct 2010 17:05:21 -0400
+Received: by iwn34 with SMTP id 34so354451iwn.18        for
+ <booneradley@utk.edu>; Sun, 17 Oct 2010 14:05:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=/53f/ZLU9I8QkQVoah2/bEstuEWIOeqy917ub622Pp0=;
+        b=FfNl3+g8Ova3wW/SKdVIPf4lPEIbXouOVrVuafY4IzXcfD2/MfqcG1CD6dqz6n7Zfr
+         4r5w/FMHHccrPRB586PmHuandLxbks0fpoC1b4GbLQAvJtVnFQobfT6D+w0eGWrh0tqg
+         qMOtDa5NNfsJ5E1dWtPBEbAOh5DQC/YHGVArA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=Torj7A9C0GxlliGmEgkHXyx686btIN5/U+PeScEqmPVfzqMjnKCp+HoW4uS4HY6hNV
+         27dM+5hHG37aRggNU4JKkKh2uec26Nje9JC7wH+wAepICHt9u15D/pD26cuFJT6T50WI
+         WcMXYKhqnhVUIDaR4Hv8ZE6K3563GLFLJXN0o=
+Received: by 10.42.240.72 with SMTP id kz8mr356290icb.74.1287349520921; Sun,
+ 17 Oct 2010 14:05:20 -0700 (PDT)
+Received: by 10.42.180.136 with HTTP; Sun, 17 Oct 2010 14:05:20 -0700 (PDT)
+Date: Sun, 17 Oct 2010 17:05:20 -0400
+Message-ID: <AANLkTikUBrN11J3LvFkZDRzfRfH=nG548ri5PUbNYOn1@mail.gmail.com>
+Subject: Invitation Request
+From: Tiffany Zoria <tiffanyzoria@gmail.com>
+To: <booneradley@utk.edu>
+Return-Path: tiffanyzoria@gmail.com
+X-OriginalArrivalTime: 17 Oct 2010 21:05:23.0742 (UTC) FILETIME=[03E363E0:01CB6E3F]
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1397609903_-_-"
+
+
+----boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1397609903_-_-"
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Dear Boone,
+
+Callie Purnia told me to e-mail you about possibly ordering some invitations. I serve on the board for a local non-profit agency, Compassionate Hearts. CH holds a holiday gala every year to raise money for the programming for the following year. This year's gala is on Friday, December 17. Unfortunately, I have let time slip away in ordering this year's gala invitations. I was talking to Callie about this, and she said you might be able to help. I really need something ordered, printed, and delivered in about 2 weeks. Could you help me out? Here are the details.
+
+Event: 13th Annual Compassionate Hearts Holiday Gala
+Date: Friday, December 17, 2010
+Time: 7:00 PM
+Location: Hilton Downtown Knoxville
+Address: 501 W. Church Avenue
+
+We also need an RSVP card, similar to that for a wedding invitation. We need 500 invitations. As far as they style, something holiday looking and classic. At this point, I don't have time to be too picky.
+
+I know this is a big project to give you on such short notice. Please let me know your thoughts!
+
+Sincerely,
+Tiffany Zoria
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/html; charset="windows-1252"
+
+Dear Boone,<div><br></div><div>Callie Purnia told me to e-mail you about possibly ordering some invitations. I serve on the board for a local non-profit agency, Compassionate Hearts. CH holds a holiday gala every year to raise money for the programming for the following year. This year&#39;s gala is on Friday, December 17. Unfortunately, I have let time slip away in ordering this year&#39;s gala invitations. I was talking to Callie about this, and she said you might be able to help. I really need something ordered, printed, and delivered in about 2 weeks. Could you help me out? Here are the details.</div>
+<div><br></div><div>Event: 13th Annual Compassionate Hearts Holiday Gala</div><div>Date: Friday, December 17, 2010</div><div>Time: 7:00 PM</div><div>Location: Hilton Downtown Knoxville</div><div>Address: 501 W. Church Avenue</div>
+<div><br></div><div>We also need an RSVP card, similar to that for a wedding invitation. We need 500 invitations. As far as they style, something holiday looking and classic. At this point, I don&#39;t have time to be too picky.</div>
+<div><br></div><div>I know this is a big project to give you on such short notice. Please let me know your thoughts!</div><div><br></div><div>Sincerely,</div><div>Tiffany Zoria</div>
+
+--alt---boundary-LibPST-iamunique-1397609903_-_---
+
+----boundary-LibPST-iamunique-1397609903_-_---
+

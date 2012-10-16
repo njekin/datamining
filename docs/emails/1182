@@ -1,0 +1,66 @@
+Received: from ksmtp2.utk.tennessee.edu ([160.36.76.165]) by KFSVS3.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 4 Oct 2010 19:02:00 -0400
+Received: from KCH1.utk.tennessee.edu ([160.36.76.205]) by ksmtp2.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 4 Oct 2010 19:01:59 -0400
+Received: from kedge1.utk.tennessee.edu (160.36.179.132) by
+ kch1.utk.tennessee.edu (160.36.76.205) with Microsoft SMTP Server (TLS) id
+ 14.0.702.0; Mon, 4 Oct 2010 19:01:59 -0400
+Received: from mail-ww0-f43.google.com (74.125.82.43) by
+ kedge1.utk.tennessee.edu (160.36.179.132) with Microsoft SMTP Server id
+ 14.0.702.0; Mon, 4 Oct 2010 19:01:52 -0400
+Received: by mail-ww0-f43.google.com with SMTP id 34so44186wwb.0        for
+ <booneradley@utk.edu>; Mon, 04 Oct 2010 16:01:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=KW2WuDjt+ykP8nzJiF8jl7cMg14FiRbYB7DBAEoRPnE=;
+        b=iq45UMFJL23eSaS6TZebRQx0UW5lHQwDTIEMwrsVNcyra+64hph2kQYVM9urlqmb+w
+         Mvv8ues/YE3UfvQkROr0ypkZlXgRn91esap9wzj1hWxmxzDTdQjqTctuxhF/rahDYUJj
+         y2t97uyBEUkrZmzR7BNSUxnZoga3/ooFF6Vs8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=gOTxPU77qJHe4EVxHiw63GZzD/FQ69G0+VIk5pY7ey0S33nq+zGDYK95dN3pM8k4bN
+         CSUM3l6HiuqRzUBBx6Zc+h1bxLSWzxpKjONjlPHol2SCkLiVVbchhU1z3Okt1+MeHCYI
+         rBYOs34np6niNU0KQ7rU709PqvL5FwEHwMiDk=
+Received: by 10.216.6.133 with SMTP id 5mr262771wen.32.1286233318261; Mon, 04
+ Oct 2010 16:01:58 -0700 (PDT)
+Received: by 10.216.10.7 with HTTP; Mon, 4 Oct 2010 16:01:57 -0700 (PDT)
+Date: Mon, 4 Oct 2010 19:01:57 -0400
+Message-ID: <AANLkTik2RhVVyb1qJD-RW=sUOEwrnTiK-_gpTHKrbatp@mail.gmail.com>
+Subject: Invitations
+From: Katie Mathews Zipper <katiemathews723@gmail.com>
+To: <booneradley@utk.edu>
+Return-Path: katiemathews723@gmail.com
+X-OriginalArrivalTime: 04 Oct 2010 23:01:59.0953 (UTC) FILETIME=[2695B810:01CB6418]
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1799976248_-_-"
+
+
+----boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1799976248_-_-"
+
+--alt---boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Hi Boone,
+
+My name is Katie, and I am a friend of Callie's from law school. She mentioned that you are starting a stationary company and that you are looking for customers. I have a Christmas party every year, and I would be interested in seeing what types of personalized invitations you have. I'm looking to order about 50. How much would you charge?
+
+Thanks,
+Katie
+
+--alt---boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: text/html; charset="windows-1252"
+
+Hi Boone,<div><br></div><div>My name is Katie, and I am a friend of Callie&#39;s from law school. She mentioned that you are starting a stationary company and that you are looking for customers. I have a Christmas party every year, and I would be interested in seeing what types of personalized invitations you have. I&#39;m looking to order about 50. How much would you charge?</div>
+<div><br></div><div>Thanks,</div><div>Katie</div>
+
+--alt---boundary-LibPST-iamunique-1799976248_-_---
+
+----boundary-LibPST-iamunique-1799976248_-_---
+

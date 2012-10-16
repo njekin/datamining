@@ -1,0 +1,82 @@
+Received: from kedge2.utk.tennessee.edu (160.36.179.112) by
+ kch3.utk.tennessee.edu (160.36.76.207) with Microsoft SMTP Server (TLS) id
+ 14.1.255.0; Wed, 3 Nov 2010 20:06:32 -0400
+Received: from mail-qy0-f180.google.com (209.85.216.180) by
+ kedge2.utk.tennessee.edu (160.36.179.112) with Microsoft SMTP Server id
+ 14.1.255.0; Wed, 3 Nov 2010 20:06:26 -0400
+Received: by qyk1 with SMTP id 1so393174qyk.18        for
+ <booneradley@utk.edu>; Wed, 03 Nov 2010 17:06:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=tsB9rZ/y7v0mEC3+jFifu0JMDKPa+hHe1aqAfUV4IZc=;
+        b=cD5MhbqyvF2TzoZVNNzX71Ahg+Xjgtz5rqcVuPuCQ+SvRFfIpmJFEYF4MrnxkHIt1L
+         U0EwaoMa3nwFlc/YBAMKgu6lrtO8waTr0cBkZ2AAFnrpasaeELHeJ9OFdWfdEmgRezY/
+         JlPyZKxJ0EPCPYLwk6JULgpZqoqOtrx1Ax8H4=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=bE2P/qNdTmC05A05+bYb8IE/kDKbqPjPbMu7xzYi4LexsGJNNcv02OqdPi8sFsj76E
+         Crwva4KussEKvxXETRI+Rpf0dk7kxgOmu1DiH767n1it8DbIvbs4Emk+PBMUpe0mkAGM
+         l6GiBUw09uPFVcUrghlSR1XH3oGA8RNADWbo8=
+Received: by 10.229.238.82 with SMTP id kr18mr1009441qcb.242.1288829192048;
+ Wed, 03 Nov 2010 17:06:32 -0700 (PDT)
+Received: by 10.229.211.73 with HTTP; Wed, 3 Nov 2010 17:06:31 -0700 (PDT)
+Date: Wed, 3 Nov 2010 20:06:31 -0400
+Message-ID: <AANLkTinEZLM6OiHonmX-5sRNNpvTWHPKdQq5eFCzcE=y@mail.gmail.com>
+Subject: Order Request - Urgent
+From: "Mrs. Dubose" <mrs.henrydubose@gmail.com>
+To: <booneradley@utk.edu>
+Return-Path: mrs.henrydubose@gmail.com
+X-MS-Exchange-Organization-Antispam-Report: v=1.1
+ cv=h1+UY8uBPtX1en1ytAAtR6uGUVm2ftsfDACZlhaDVAE= c=1 sm=1 a=pGLkceISAAAA:8
+ a=NHl9iICH1NnskDBbQ1wA:9 a=Hn8Fs32Fu5YTwgiX_71Wgl-Ra0sA:4 a=wPNLvfGTeEIA:10
+ a=MSl-tDqOz04A:10 a=pTTMDCLERVQwrkoRsCYA:9 a=_Lt8E_m_kDZjP_OCzPsA:7
+ a=n45-sJ7RMd0ExXDC1TXm5b6qkREA:4
+ a=hLcLIkTLg2nAAMYxL9XpIw==:117;OrigIP:209.85.216.180;SCL:-1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AuthSource: kedge2.utk.tennessee.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1397609903_-_-"
+
+
+----boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1397609903_-_-"
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Dear Mr. Radley,
+
+I am Mrs. Henry Lafayette Dubose. It is my understanding that you make personalized stationery. I have an urgent request of you. I need a formal invitation for a Thanksgiving Dinner that I am hosting in Atlanta, Georgia. I will send this invitation to 50 of my friends and relatives. I am willing to pay a premium to have the cards delivered to me by November 8. I realize this is short notice, but I am in quite a bind. Can you help me?
+
+Here are the details:
+Thanksgiving Dinner
+Hosted by Mrs. Henry Lafayette Dubose
+November 25, 2010
+3:00 PM
+584 Peachtree Street
+Atlanta, GA 30303
+RSVP: mrs.henrydubose@gmail.com
+
+Thanks,
+Mrs. Dubose
+
+--alt---boundary-LibPST-iamunique-1397609903_-_-
+Content-Type: text/html; charset="iso-8859-1"
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">Dear Mr. Radley,<div><br></div><div>I am Mrs. Henry Lafayette Dubose. It is my understanding that you make personalized stationery. I have an urgent request of you. I need a formal invitation for a Thanksgiving Dinner that I am hosting in Atlanta, Georgia. I will send this invitation to 50 of my friends and relatives. I am willing to pay a premium to have the cards delivered to me by November 8. I realize this is short notice, but I am in quite a bind. Can you help me?</div>
+<div><br></div><div>Here are the details:</div><div>Thanksgiving Dinner</div><div>Hosted by Mrs. Henry Lafayette Dubose</div><div>November 25, 2010</div><div>3:00 PM</div><div>584 Peachtree Street</div><div>Atlanta, GA 30303</div>
+<div>RSVP: <a href="mailto:mrs.henrydubose@gmail.com">mrs.henrydubose@gmail.com</a></div><div><br></div><div>Thanks,</div><div>Mrs. Dubose</div>
+
+--alt---boundary-LibPST-iamunique-1397609903_-_---
+
+----boundary-LibPST-iamunique-1397609903_-_---
+

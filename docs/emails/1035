@@ -1,0 +1,76 @@
+Received: from ksmtp1.utk.tennessee.edu ([160.36.76.164]) by KFSVS3.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 11 Oct 2010 16:48:46 -0400
+Received: from KCH3.utk.tennessee.edu ([160.36.76.207]) by ksmtp1.utk.tennessee.edu with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 11 Oct 2010 16:48:46 -0400
+Received: from kedge4.utk.tennessee.edu (160.36.179.113) by
+ kch3.utk.tennessee.edu (160.36.76.207) with Microsoft SMTP Server (TLS) id
+ 14.0.702.0; Mon, 11 Oct 2010 16:48:45 -0400
+Received: from mail-qy0-f193.google.com (209.85.216.193) by
+ kedge4.utk.tennessee.edu (160.36.179.113) with Microsoft SMTP Server id
+ 14.0.702.0; Mon, 11 Oct 2010 16:48:43 -0400
+Received: by qyk2 with SMTP id 2so642632qyk.0        for
+ <booneradley@utk.edu>; Mon, 11 Oct 2010 13:48:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:content-type;
+        bh=O5nIsWJUYp8ptY7YmlcIdTjz64SQT9eswvbnm279PRw=;
+        b=sheY0abdtKNb/GBbIn28ffhLHY2xIip+OVwGBtZEcgQK4FjhjItUDdDuAjrTFFiBiv
+         vPipfE+cnJf+oHhgQeoH2MUQlGUUEK7ler55uOlzkdeSA62najSxS/Iuz/iHyGyhUjnq
+         EtDG5VUn5BsqHaBUsaef0cyO3xfEodRZPizwM=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=OB+ROO3YV6QrFfRIKQvEpxYvnT41H97b8NIENqN0STOqoa3zZ1/kliH/eAndV/7rvB
+         J6HzUswtIf+W9V0OixNmotp6wmzflFAm9Wot8eCnMgJ/MKCwegVNMPkfrASnr3jz3Qyj
+         PQg9V7jiPJBwXGktxq+TOIOWUeAV4gyaup/T4=
+Received: by 10.224.196.134 with SMTP id eg6mr4885538qab.178.1286830124185;
+ Mon, 11 Oct 2010 13:48:44 -0700 (PDT)
+Received: by 10.229.48.133 with HTTP; Mon, 11 Oct 2010 13:48:44 -0700 (PDT)
+Date: Mon, 11 Oct 2010 16:48:44 -0400
+Message-ID: <AANLkTi=ZH2zZMdEzRh1hMjh=wFWZqdOQb0WajHMmhgDu@mail.gmail.com>
+Subject: Business Stationery
+From: Erica Rust <ericarust@gmail.com>
+To: <booneradley@utk.edu>
+Return-Path: ericarust@gmail.com
+X-OriginalArrivalTime: 11 Oct 2010 20:48:46.0029 (UTC) FILETIME=[B2B9F7D0:01CB6985]
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-1799976248_-_-"
+
+
+----boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: multipart/alternative;
+	boundary="alt---boundary-LibPST-iamunique-1799976248_-_-"
+
+--alt---boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Hi Boone,
+
+My name is Erica Rust, and I am a friend of Callie. She told me that you are starting up a new personalized stationery business and that you would be able to give me a good deal on some stationery for my business. I am a solo practitioner attorney, and I work out of my home. I am in need of several types of stationery. First, I need some general stationery to print letters. These letters will be sent to clients, other attorneys, and courts. Second, I need some note cards that I can write personal, handwritten messages on. Finally, I need some holiday greeting cards to send to my clients and colleagues. I would like something simple and cheap, yet professional. I would probably need about 1,000 sheets of general stationery, 200 note cards, and 100 holiday cards. Please tell me what other information I need to get you. My contact info is below.
+
+Thank you in advance for your help,
+Erica
+
+The Law Office of Erica Rust
+5241 Lyons Circle
+Knoxville, TN 37931
+p: (865) 555-5674
+f: (865) 555-5675
+e: ericarust@ericarustlaw.com
+w: www.ericarustlaw.com
+
+
+--alt---boundary-LibPST-iamunique-1799976248_-_-
+Content-Type: text/html; charset="windows-1252"
+
+Hi Boone,<div><br></div><div>My name is Erica Rust, and I am a friend of Callie. She told me that you are starting up a new personalized stationery business and that you would be able to give me a good deal on some stationery for my business. I am a solo practitioner attorney, and I work out of my home. I am in need of several types of stationery. First, I need some general stationery to print letters. These letters will be sent to clients, other attorneys, and courts. Second, I need some note cards that I can write personal, handwritten messages on. Finally, I need some holiday greeting cards to send to my clients and colleagues. I would like something simple and cheap, yet professional. I would probably need about 1,000 sheets of general stationery, 200 note cards, and 100 holiday cards. Please tell me what other information I need to get you. My contact info is below.</div>
+<div><br></div><div>Thank you in advance for your help,</div><div>Erica</div><div><br></div><div>The Law Office of Erica Rust</div><div>5241 Lyons Circle</div><div>Knoxville, TN 37931</div><div>p: (865) 555-5674</div><div>
+f: (865) 555-5675</div><div>e: <a href="mailto:ericarust@ericarustlaw.com">ericarust@ericarustlaw.com</a></div><div>w: <a href="http://www.ericarustlaw.com">www.ericarustlaw.com</a></div><div><br></div>
+
+--alt---boundary-LibPST-iamunique-1799976248_-_---
+
+----boundary-LibPST-iamunique-1799976248_-_---
+
